@@ -6,3 +6,4 @@
  # Copying myfile1.txt to the containers /usr/share directory
  COPY *.txt /usr/share
  # 
+ WORKDIR /usr/share
